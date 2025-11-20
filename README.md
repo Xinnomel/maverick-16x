@@ -3,4 +3,4 @@
 
 made by Lemonnix and music_cat3!!
 
-you can download the pack via Code -> Download Zip - this will give you a zip that you *have* to extract. I cannot stress this enough. 
+you can download the pack via Code -> Download Zip - this will give you a zip that you *have* to extract - the resulting folder will be the one that you can use in Minecraft. I cannot stress this enough. 
