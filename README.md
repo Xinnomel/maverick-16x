@@ -3,4 +3,4 @@
 
 made by Lemonnix and music_cat3!!
 
-you can download the pack via Code -> Download Zip - this will give you a drag & drop Zip that should just work ingame off rip.
+you can download the pack via Code -> Download Zip - this will give you a zip that you *have* to extract. I cannot stress this enough. 
